@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "title": "Good Time Max",
+        "author": "Homere Spicer",
+        "translator": "Carline Dauney",
+        "language": "Bulgarian",
+        "cover": "http://dummyimage.com/217x100.png/cc0000/ffffff",
+        "number_of_pages": 181,
+        "price": 30.04
+    },
+    {
+        "id": 2,
+        "title": "Shot in the Heart",
+        "author": "Feliza Gauch",
+        "translator": "Loren MacMillan",
+        "language": "Hungarian",
+        "cover": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+        "number_of_pages": 122,
+        "price": 7.38
+    },
+    {
+        "id": 3,
+        "title": "Macabre",
+        "author": "Carny Lismer",
+        "translator": "Arturo Loakes",
+        "language": "Kashmiri",
+        "cover": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+        "number_of_pages": 482,
+        "price": 30.46
+    },
+    {
+        "id": 4,
+        "title": "The Sweet Ride",
+        "author": "Rowland Titford",
+        "translator": "Elle Hundall",
+        "language": "Burmese",
+        "cover": "http://dummyimage.com/175x100.png/cc0000/ffffff",
+        "number_of_pages": 546,
+        "price": 39.45
+    },
+    {
+        "id": 5,
+        "title": "Lesson Plan ",
+        "author": "Avigdor Alps",
+        "translator": "Phil Espine",
+        "language": "Dutch",
+        "cover": "http://dummyimage.com/147x100.png/ff4444/ffffff",
+        "number_of_pages": 1206,
+        "price": 2.13
+    },
+    {
+        "id": 6,
+        "title": "My Father's Glory (La gloire de mon père)",
+        "author": "Konstantine Lorente",
+        "translator": "Harbert Elcock",
+        "language": "Kannada",
+        "cover": "http://dummyimage.com/243x100.png/ff4444/ffffff",
+        "number_of_pages": 565,
+        "price": 13.37
+    },
+    {
+        "id": 7,
+        "title": "Munich",
+        "author": "Ethelred Snowden",
+        "translator": "Markus Blundon",
+        "language": "Papiamento",
+        "cover": "http://dummyimage.com/202x100.png/cc0000/ffffff",
+        "number_of_pages": 600,
+        "price": 37.04
+    },
+    {
+        "id": 8,
+        "title": "Somebody Up There Likes Me",
+        "author": "Tonie Frostdicke",
+        "translator": "Feodora Allmen",
+        "language": "Persian",
+        "cover": "http://dummyimage.com/166x100.png/dddddd/000000",
+        "number_of_pages": 232,
+        "price": 17.58
+    },
+    {
+        "id": 9,
+        "title": "16 Acres",
+        "author": "Brok Eliaz",
+        "translator": "Valentin Ducastel",
+        "language": "Arabic",
+        "cover": "http://dummyimage.com/234x100.png/ff4444/ffffff",
+        "number_of_pages": 771,
+        "price": 25.29
+    },
+    {
+        "id": 10,
+        "title": "Dylan Moran Live: What It Is",
+        "author": "Patrice Caneo",
+        "translator": "Tani Yorath",
+        "language": "Amharic",
+        "cover": "http://dummyimage.com/120x100.png/ff4444/ffffff",
+        "number_of_pages": 837,
+        "price": 38.59
+    },
+    {
+        "id": 11,
+        "title": "Canterville Ghost, The",
+        "author": "Oby Garci",
+        "translator": "Goldina Mapother",
+        "language": "Punjabi",
+        "cover": "http://dummyimage.com/161x100.png/dddddd/000000",
+        "number_of_pages": 747,
+        "price": 14.64
+    },
+    {
+        "id": 12,
+        "title": "Evil of Frankenstein, The",
+        "author": "Nannie Muggach",
+        "translator": "Myer Bellison",
+        "language": "Khmer",
+        "cover": "http://dummyimage.com/233x100.png/ff4444/ffffff",
+        "number_of_pages": 1116,
+        "price": 1.22
+    },
+    {
+        "id": 13,
+        "title": "Il Mare (Siworae)",
+        "author": "Johanna Oley",
+        "translator": "Farr Muggach",
+        "language": "Icelandic",
+        "cover": "http://dummyimage.com/222x100.png/dddddd/000000",
+        "number_of_pages": 418,
+        "price": 42.73
+    },
+    {
+        "id": 14,
+        "title": "Jack Reacher",
+        "author": "Nancee Maguire",
+        "translator": "Waldon Plomer",
+        "language": "Tswana",
+        "cover": "http://dummyimage.com/239x100.png/5fa2dd/ffffff",
+        "number_of_pages": 425,
+        "price": 18.57
+    },
+    {
+        "id": 15,
+        "title": "One Day",
+        "author": "Brittany Pentony",
+        "translator": "Cristabel Coushe",
+        "language": "Portuguese",
+        "cover": "http://dummyimage.com/148x100.png/5fa2dd/ffffff",
+        "number_of_pages": 1080,
+        "price": 11.37
+    },
+    {
+        "id": 16,
+        "title": "Mariage à Mendoza",
+        "author": "Arluene Tregonna",
+        "translator": "Brynne Lordon",
+        "language": "West Frisian",
+        "cover": "http://dummyimage.com/108x100.png/ff4444/ffffff",
+        "number_of_pages": 377,
+        "price": 26.56
+    },
+    {
+        "id": 17,
+        "title": "Piranha II: The Spawning",
+        "author": "Kristopher Arend",
+        "translator": "Westbrook Shopcott",
+        "language": "Moldovan",
+        "cover": "http://dummyimage.com/170x100.png/ff4444/ffffff",
+        "number_of_pages": 235,
+        "price": 2.33
+    },
+    {
+        "id": 18,
+        "title": "Isle, The (Seom)",
+        "author": "Dallas Germann",
+        "translator": "Marge Ellar",
+        "language": "Ndebele",
+        "cover": "http://dummyimage.com/210x100.png/dddddd/000000",
+        "number_of_pages": 1145,
+        "price": 17.74
+    },
+    {
+        "id": 19,
+        "title": "Searching for Bobby Fischer",
+        "author": "Andie Gonsalo",
+        "translator": "Abdel Tonbye",
+        "language": "Japanese",
+        "cover": "http://dummyimage.com/225x100.png/ff4444/ffffff",
+        "number_of_pages": 1157,
+        "price": 8.78
+    },
+    {
+        "id": 20,
+        "title": "Eva",
+        "author": "Corissa Barcke",
+        "translator": "Amara Oxer",
+        "language": "Lithuanian",
+        "cover": "http://dummyimage.com/108x100.png/dddddd/000000",
+        "number_of_pages": 722,
+        "price": 10.14
+    },
+    {
+        "id": 21,
+        "title": "Killing Room, The",
+        "author": "Emanuel Eingerfield",
+        "translator": "Jillene Worgan",
+        "language": "Malagasy",
+        "cover": "http://dummyimage.com/103x100.png/ff4444/ffffff",
+        "number_of_pages": 101,
+        "price": 27.8
+    },
+    {
+        "id": 22,
+        "title": "Doing Time on Maple Drive",
+        "author": "Alberto Henstridge",
+        "translator": "Annabella Verity",
+        "language": "Lithuanian",
+        "cover": "http://dummyimage.com/247x100.png/ff4444/ffffff",
+        "number_of_pages": 96,
+        "price": 36.81
+    },
+    {
+        "id": 23,
+        "title": "Night of the Iguana, The",
+        "author": "Norrie Windle",
+        "translator": "Hedda Clews",
+        "language": "Kazakh",
+        "cover": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+        "number_of_pages": 872,
+        "price": 29.19
+    },
+    {
+        "id": 24,
+        "title": "Happy-Go-Lucky",
+        "author": "Regina Paszek",
+        "translator": "Ettie Hanalan",
+        "language": "Tetum",
+        "cover": "http://dummyimage.com/126x100.png/ff4444/ffffff",
+        "number_of_pages": 1190,
+        "price": 23.85
+    },
+    {
+        "id": 25,
+        "title": "All Through the Night",
+        "author": "Aksel Briiginshaw",
+        "translator": "Vinny Fraulo",
+        "language": "Bengali",
+        "cover": "http://dummyimage.com/189x100.png/5fa2dd/ffffff",
+        "number_of_pages": 48,
+        "price": 4.05
+    },
+    {
+        "id": 26,
+        "title": "Two Loves",
+        "author": "Nikolaos Lounds",
+        "translator": "Durant Daymont",
+        "language": "Malayalam",
+        "cover": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+        "number_of_pages": 237,
+        "price": 32.57
+    },
+    {
+        "id": 27,
+        "title": "Insanitarium",
+        "author": "Sidonnie Glanz",
+        "translator": "Consuelo Dallow",
+        "language": "Pashto",
+        "cover": "http://dummyimage.com/230x100.png/ff4444/ffffff",
+        "number_of_pages": 500,
+        "price": 29.96
+    },
+    {
+        "id": 28,
+        "title": "Innocent Voices (Voces inocentes)",
+        "author": "Madlen de Aguirre",
+        "translator": "Cos Walkden",
+        "language": "Belarusian",
+        "cover": "http://dummyimage.com/195x100.png/5fa2dd/ffffff",
+        "number_of_pages": 493,
+        "price": 11.44
+    },
+    {
+        "id": 29,
+        "title": "American Addict",
+        "author": "Christen Mc Grath",
+        "translator": "Davine Acors",
+        "language": "Croatian",
+        "cover": "http://dummyimage.com/229x100.png/dddddd/000000",
+        "number_of_pages": 479,
+        "price": 33.58
+    },
+    {
+        "id": 30,
+        "title": "With Fire and Sword (Ogniem i mieczem)",
+        "author": "Heall Leppard",
+        "translator": "Yale Markus",
+        "language": "Albanian",
+        "cover": "http://dummyimage.com/197x100.png/cc0000/ffffff",
+        "number_of_pages": 847,
+        "price": 14.66
+    },
+    {
+        "id": 31,
+        "title": "Rush",
+        "author": "Lydia Cosham",
+        "translator": "Brit Cruft",
+        "language": "West Frisian",
+        "cover": "http://dummyimage.com/205x100.png/dddddd/000000",
+        "number_of_pages": 413,
+        "price": 18.46
+    },
+    {
+        "id": 32,
+        "title": "Going Overboard",
+        "author": "Ashleigh O' Reagan",
+        "translator": "Dulce Viccary",
+        "language": "Hiri Motu",
+        "cover": "http://dummyimage.com/139x100.png/cc0000/ffffff",
+        "number_of_pages": 712,
+        "price": 13.11
+    },
+    {
+        "id": 33,
+        "title": "Bad Sleep Well, The (Warui yatsu hodo yoku nemuru)",
+        "author": "Una Eilert",
+        "translator": "Giovanna Atwool",
+        "language": "Czech",
+        "cover": "http://dummyimage.com/235x100.png/ff4444/ffffff",
+        "number_of_pages": 849,
+        "price": 39.37
+    },
+    {
+        "id": 34,
+        "title": "Illusion Of Blood",
+        "author": "Corina Birtonshaw",
+        "translator": "Opaline Andreopolos",
+        "language": "Bosnian",
+        "cover": "http://dummyimage.com/146x100.png/ff4444/ffffff",
+        "number_of_pages": 1054,
+        "price": 44.39
+    },
+    {
+        "id": 35,
+        "title": "Contractor, The",
+        "author": "Genia Larciere",
+        "translator": "Horace Rama",
+        "language": "Swati",
+        "cover": "http://dummyimage.com/229x100.png/ff4444/ffffff",
+        "number_of_pages": 1141,
+        "price": 48.72
+    },
+    {
+        "id": 36,
+        "title": "In-Laws, The",
+        "author": "Hermia Sandiford",
+        "translator": "Zacharias Stoeckle",
+        "language": "Catalan",
+        "cover": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+        "number_of_pages": 426,
+        "price": 11.49
+    },
+    {
+        "id": 37,
+        "title": "Sweet Hereafter, The",
+        "author": "Nydia Guite",
+        "translator": "Isiahi Varcoe",
+        "language": "Marathi",
+        "cover": "http://dummyimage.com/131x100.png/ff4444/ffffff",
+        "number_of_pages": 987,
+        "price": 11.9
+    },
+    {
+        "id": 38,
+        "title": "Flawless",
+        "author": "Kimbell Affron",
+        "translator": "Augustine Dawney",
+        "language": "Filipino",
+        "cover": "http://dummyimage.com/187x100.png/dddddd/000000",
+        "number_of_pages": 910,
+        "price": 24.53
+    },
+    {
+        "id": 39,
+        "title": "Shine a Light",
+        "author": "Hughie Greveson",
+        "translator": "Gordon Plum",
+        "language": "Telugu",
+        "cover": "http://dummyimage.com/159x100.png/ff4444/ffffff",
+        "number_of_pages": 1029,
+        "price": 2.46
+    },
+    {
+        "id": 40,
+        "title": "Beautiful",
+        "author": "Susie Sysland",
+        "translator": "Sanderson Carey",
+        "language": "Gagauz",
+        "cover": "http://dummyimage.com/230x100.png/cc0000/ffffff",
+        "number_of_pages": 554,
+        "price": 2.55
+    },
+    {
+        "id": 41,
+        "title": "Cat Run",
+        "author": "Torr Hails",
+        "translator": "Hashim Iacovuzzi",
+        "language": "Norwegian",
+        "cover": "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
+        "number_of_pages": 798,
+        "price": 21.91
+    },
+    {
+        "id": 42,
+        "title": "Macbeth (a.k.a. Tragedy of Macbeth, The)",
+        "author": "Wileen Scutchin",
+        "translator": "Amalee Dugmore",
+        "language": "Moldovan",
+        "cover": "http://dummyimage.com/215x100.png/ff4444/ffffff",
+        "number_of_pages": 864,
+        "price": 36.68
+    },
+    {
+        "id": 43,
+        "title": "88 Minutes",
+        "author": "Den Manjin",
+        "translator": "Bondon Beard",
+        "language": "Quechua",
+        "cover": "http://dummyimage.com/185x100.png/ff4444/ffffff",
+        "number_of_pages": 203,
+        "price": 39.43
+    },
+    {
+        "id": 44,
+        "title": "Tormented",
+        "author": "Roxine Meryett",
+        "translator": "Katharine Hellin",
+        "language": "Dhivehi",
+        "cover": "http://dummyimage.com/207x100.png/5fa2dd/ffffff",
+        "number_of_pages": 250,
+        "price": 42.82
+    },
+    {
+        "id": 45,
+        "title": "100 Men and a Girl (One Hundred Men and a Girl)",
+        "author": "Blake Urquhart",
+        "translator": "Damon Keates",
+        "language": "Luxembourgish",
+        "cover": "http://dummyimage.com/190x100.png/dddddd/000000",
+        "number_of_pages": 876,
+        "price": 45.45
+    },
+    {
+        "id": 46,
+        "title": "Girl Play",
+        "author": "Allene Kempton",
+        "translator": "Salomi Shrigley",
+        "language": "Malayalam",
+        "cover": "http://dummyimage.com/241x100.png/dddddd/000000",
+        "number_of_pages": 68,
+        "price": 44.32
+    },
+    {
+        "id": 47,
+        "title": "Troll 2",
+        "author": "Fulton Jollie",
+        "translator": "Herb Sleaford",
+        "language": "Maltese",
+        "cover": "http://dummyimage.com/171x100.png/ff4444/ffffff",
+        "number_of_pages": 347,
+        "price": 11.52
+    },
+    {
+        "id": 48,
+        "title": "Buena Vista Social Club",
+        "author": "Tina Gillman",
+        "translator": "Amitie Adelberg",
+        "language": "Papiamento",
+        "cover": "http://dummyimage.com/100x100.png/dddddd/000000",
+        "number_of_pages": 1318,
+        "price": 38.76
+    },
+    {
+        "id": 49,
+        "title": "Our Nixon",
+        "author": "Jephthah Hassekl",
+        "translator": "Vincenz Maps",
+        "language": "Bislama",
+        "cover": "http://dummyimage.com/190x100.png/dddddd/000000",
+        "number_of_pages": 698,
+        "price": 5.69
+    },
+    {
+        "id": 50,
+        "title": "Another Gay Movie",
+        "author": "Deborah Falkinder",
+        "translator": "Murry Cleworth",
+        "language": "Mongolian",
+        "cover": "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
+        "number_of_pages": 438,
+        "price": 25.59
+    },
+    {
+        "id": 51,
+        "title": "American Idiots",
+        "author": "Ashbey Pratley",
+        "translator": "Kacie Spilling",
+        "language": "Tswana",
+        "cover": "http://dummyimage.com/227x100.png/dddddd/000000",
+        "number_of_pages": 553,
+        "price": 30.03
+    },
+    {
+        "id": 52,
+        "title": "Innocent, The",
+        "author": "Barris Comelini",
+        "translator": "Shane Baggaley",
+        "language": "Bengali",
+        "cover": "http://dummyimage.com/226x100.png/5fa2dd/ffffff",
+        "number_of_pages": 862,
+        "price": 27.76
+    },
+    {
+        "id": 53,
+        "title": "Room in Rome (Habitación en Roma)",
+        "author": "Betsy Chazerand",
+        "translator": "Conrad Canedo",
+        "language": "Dzongkha",
+        "cover": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
+        "number_of_pages": 1006,
+        "price": 35.91
+    },
+    {
+        "id": 54,
+        "title": "Drum, The (Drums)",
+        "author": "Tymon Crowhurst",
+        "translator": "Giacobo Murdy",
+        "language": "Malayalam",
+        "cover": "http://dummyimage.com/191x100.png/5fa2dd/ffffff",
+        "number_of_pages": 1282,
+        "price": 35.4
+    },
+    {
+        "id": 55,
+        "title": "Infernal Affairs (Mou gaan dou)",
+        "author": "Ailey Reckus",
+        "translator": "Bobbi Gibbett",
+        "language": "Kannada",
+        "cover": "http://dummyimage.com/143x100.png/ff4444/ffffff",
+        "number_of_pages": 936,
+        "price": 15.72
+    },
+    {
+        "id": 56,
+        "title": "Prison Break: The Final Break",
+        "author": "Demetri Jordan",
+        "translator": "Abbi Rivers",
+        "language": "English",
+        "cover": "http://dummyimage.com/206x100.png/ff4444/ffffff",
+        "number_of_pages": 157,
+        "price": 20.58
+    },
+    {
+        "id": 57,
+        "title": "Vixen!",
+        "author": "Thane Badcock",
+        "translator": "Perkin McManamen",
+        "language": "Greek",
+        "cover": "http://dummyimage.com/217x100.png/ff4444/ffffff",
+        "number_of_pages": 230,
+        "price": 7.51
+    },
+    {
+        "id": 58,
+        "title": "In the Cut",
+        "author": "Mitch Rijkeseis",
+        "translator": "Chevy Keating",
+        "language": "Hindi",
+        "cover": "http://dummyimage.com/215x100.png/ff4444/ffffff",
+        "number_of_pages": 824,
+        "price": 22.03
+    },
+    {
+        "id": 59,
+        "title": "Vamps",
+        "author": "Luis Skett",
+        "translator": "Jae Guitel",
+        "language": "German",
+        "cover": "http://dummyimage.com/102x100.png/ff4444/ffffff",
+        "number_of_pages": 380,
+        "price": 24.9
+    },
+    {
+        "id": 60,
+        "title": "Night of the Living Dead 3D",
+        "author": "Nickolaus Hambric",
+        "translator": "Hildegarde Garling",
+        "language": "Khmer",
+        "cover": "http://dummyimage.com/237x100.png/dddddd/000000",
+        "number_of_pages": 1182,
+        "price": 2.15
+    },
+    {
+        "id": 61,
+        "title": "Slender Thread, The",
+        "author": "Otes Inseal",
+        "translator": "Winnie Raigatt",
+        "language": "Catalan",
+        "cover": "http://dummyimage.com/242x100.png/dddddd/000000",
+        "number_of_pages": 336,
+        "price": 31.45
+    },
+    {
+        "id": 62,
+        "title": "Bamako",
+        "author": "Grissel Paudin",
+        "translator": "Turner Lucy",
+        "language": "Tetum",
+        "cover": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
+        "number_of_pages": 872,
+        "price": 8.09
+    },
+    {
+        "id": 63,
+        "title": "Tropic Thunder",
+        "author": "Ranna Norree",
+        "translator": "Montgomery Willatts",
+        "language": "Mongolian",
+        "cover": "http://dummyimage.com/225x100.png/dddddd/000000",
+        "number_of_pages": 1147,
+        "price": 29.29
+    },
+    {
+        "id": 64,
+        "title": "Enemy at the Gates",
+        "author": "Gardener Clother",
+        "translator": "Arney Whelband",
+        "language": "Thai",
+        "cover": "http://dummyimage.com/124x100.png/cc0000/ffffff",
+        "number_of_pages": 157,
+        "price": 22.59
+    },
+    {
+        "id": 65,
+        "title": "5 Against the House",
+        "author": "Ives Eastwell",
+        "translator": "Haskel Jankovic",
+        "language": "Filipino",
+        "cover": "http://dummyimage.com/134x100.png/5fa2dd/ffffff",
+        "number_of_pages": 116,
+        "price": 5.1
+    },
+    {
+        "id": 66,
+        "title": "Coma",
+        "author": "Cherie Bozworth",
+        "translator": "Jennee Piggins",
+        "language": "Indonesian",
+        "cover": "http://dummyimage.com/191x100.png/ff4444/ffffff",
+        "number_of_pages": 499,
+        "price": 30.44
+    },
+    {
+        "id": 67,
+        "title": "Broadcast News",
+        "author": "Sidnee Bonnaire",
+        "translator": "Hayyim McReynold",
+        "language": "Tajik",
+        "cover": "http://dummyimage.com/129x100.png/ff4444/ffffff",
+        "number_of_pages": 442,
+        "price": 19.31
+    },
+    {
+        "id": 68,
+        "title": "Kiki's Delivery Service (Majo no takkyûbin)",
+        "author": "Ezra Lulham",
+        "translator": "Niels Tebbutt",
+        "language": "Guaraní",
+        "cover": "http://dummyimage.com/145x100.png/cc0000/ffffff",
+        "number_of_pages": 525,
+        "price": 12.88
+    },
+    {
+        "id": 69,
+        "title": "Faces of Schlock",
+        "author": "Starlene McChruiter",
+        "translator": "Agatha Grzeskowski",
+        "language": "Japanese",
+        "cover": "http://dummyimage.com/114x100.png/cc0000/ffffff",
+        "number_of_pages": 99,
+        "price": 24.33
+    },
+    {
+        "id": 70,
+        "title": "Buddies (Colegas)",
+        "author": "Wildon Gaine",
+        "translator": "Weider Maffiotti",
+        "language": "Khmer",
+        "cover": "http://dummyimage.com/208x100.png/dddddd/000000",
+        "number_of_pages": 611,
+        "price": 47.66
+    },
+    {
+        "id": 71,
+        "title": "Chinese Take-Out (Chinese Take-Away) (Un cuento chino)",
+        "author": "Lynda Griffith",
+        "translator": "Dorothea Cleevely",
+        "language": "French",
+        "cover": "http://dummyimage.com/132x100.png/cc0000/ffffff",
+        "number_of_pages": 128,
+        "price": 18.23
+    },
+    {
+        "id": 72,
+        "title": "Sister Helen ",
+        "author": "Elisha Milsap",
+        "translator": "Mattheus Bexley",
+        "language": "Bulgarian",
+        "cover": "http://dummyimage.com/120x100.png/ff4444/ffffff",
+        "number_of_pages": 1288,
+        "price": 34.53
+    },
+    {
+        "id": 73,
+        "title": "Adventures of Food Boy, The (aka High School Superhero)",
+        "author": "Griz Landsberg",
+        "translator": "Wright Pietrowski",
+        "language": "Bulgarian",
+        "cover": "http://dummyimage.com/171x100.png/dddddd/000000",
+        "number_of_pages": 339,
+        "price": 48.25
+    },
+    {
+        "id": 74,
+        "title": "Twilight Saga: Breaking Dawn - Part 2, The",
+        "author": "Klement Pitkethly",
+        "translator": "Maryann Coulston",
+        "language": "Macedonian",
+        "cover": "http://dummyimage.com/167x100.png/5fa2dd/ffffff",
+        "number_of_pages": 747,
+        "price": 8.99
+    },
+    {
+        "id": 75,
+        "title": "Julien Donkey-Boy",
+        "author": "Wilie O'Feeney",
+        "translator": "Ranique Lewing",
+        "language": "Tamil",
+        "cover": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+        "number_of_pages": 274,
+        "price": 20.46
+    },
+    {
+        "id": 76,
+        "title": "Scorned",
+        "author": "Mile Gerrad",
+        "translator": "Emma Durrell",
+        "language": "Fijian",
+        "cover": "http://dummyimage.com/224x100.png/dddddd/000000",
+        "number_of_pages": 1104,
+        "price": 9.81
+    },
+    {
+        "id": 77,
+        "title": "Children's Hour, The",
+        "author": "Dave Blabie",
+        "translator": "Carmelita Mapledoore",
+        "language": "Azeri",
+        "cover": "http://dummyimage.com/160x100.png/dddddd/000000",
+        "number_of_pages": 209,
+        "price": 15.49
+    },
+    {
+        "id": 78,
+        "title": "Judex",
+        "author": "Berkie Silbersak",
+        "translator": "Celestia Strachan",
+        "language": "Macedonian",
+        "cover": "http://dummyimage.com/195x100.png/dddddd/000000",
+        "number_of_pages": 1012,
+        "price": 46.56
+    },
+    {
+        "id": 79,
+        "title": "Schindler's List",
+        "author": "Estele Jessel",
+        "translator": "Marcile Milner",
+        "language": "Dzongkha",
+        "cover": "http://dummyimage.com/111x100.png/ff4444/ffffff",
+        "number_of_pages": 1231,
+        "price": 29.6
+    },
+    {
+        "id": 80,
+        "title": "Assassin Next Door, The (Kirot)",
+        "author": "Kalil Bartocci",
+        "translator": "Carlie Splevings",
+        "language": "Burmese",
+        "cover": "http://dummyimage.com/209x100.png/ff4444/ffffff",
+        "number_of_pages": 383,
+        "price": 28.95
+    },
+    {
+        "id": 81,
+        "title": "Chelsea Walls",
+        "author": "Edythe Breinl",
+        "translator": "Dorise Bullas",
+        "language": "Swati",
+        "cover": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+        "number_of_pages": 706,
+        "price": 39.56
+    },
+    {
+        "id": 82,
+        "title": "Botched",
+        "author": "Alden Hucks",
+        "translator": "Annette Menilove",
+        "language": "Ndebele",
+        "cover": "http://dummyimage.com/173x100.png/dddddd/000000",
+        "number_of_pages": 921,
+        "price": 30.14
+    },
+    {
+        "id": 83,
+        "title": "Halloweentown High",
+        "author": "Jobi Jaray",
+        "translator": "Ninetta Henzer",
+        "language": "Pashto",
+        "cover": "http://dummyimage.com/246x100.png/ff4444/ffffff",
+        "number_of_pages": 1056,
+        "price": 36.14
+    },
+    {
+        "id": 84,
+        "title": "Life of Reilly, The",
+        "author": "Loy Haddock",
+        "translator": "Jordain Cullum",
+        "language": "Burmese",
+        "cover": "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+        "number_of_pages": 600,
+        "price": 8.29
+    },
+    {
+        "id": 85,
+        "title": "First Power, The",
+        "author": "Walt Bruhnke",
+        "translator": "Ethelind Fallow",
+        "language": "Yiddish",
+        "cover": "http://dummyimage.com/130x100.png/cc0000/ffffff",
+        "number_of_pages": 795,
+        "price": 3.37
+    },
+    {
+        "id": 86,
+        "title": "Celebration, The (Festen)",
+        "author": "Rosalind Garnsey",
+        "translator": "Mart Buxcy",
+        "language": "Croatian",
+        "cover": "http://dummyimage.com/248x100.png/cc0000/ffffff",
+        "number_of_pages": 1276,
+        "price": 25.13
+    },
+    {
+        "id": 87,
+        "title": "Semper Fi",
+        "author": "Tab Kielt",
+        "translator": "Belinda Brickett",
+        "language": "Swedish",
+        "cover": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
+        "number_of_pages": 267,
+        "price": 44.55
+    },
+    {
+        "id": 88,
+        "title": "Center Stage (Ruan Lingyu) (Actress, The) (New China Woman, The)",
+        "author": "Micaela Slemmonds",
+        "translator": "Yevette Hellier",
+        "language": "English",
+        "cover": "http://dummyimage.com/234x100.png/5fa2dd/ffffff",
+        "number_of_pages": 1038,
+        "price": 36.4
+    },
+    {
+        "id": 89,
+        "title": "Love That Boy",
+        "author": "Korella Ksandra",
+        "translator": "Yul Feldbau",
+        "language": "Polish",
+        "cover": "http://dummyimage.com/226x100.png/5fa2dd/ffffff",
+        "number_of_pages": 460,
+        "price": 23.79
+    },
+    {
+        "id": 90,
+        "title": "Passion Flower",
+        "author": "Massimo Quernel",
+        "translator": "Ailbert Pervoe",
+        "language": "Gujarati",
+        "cover": "http://dummyimage.com/171x100.png/ff4444/ffffff",
+        "number_of_pages": 791,
+        "price": 44.96
+    },
+    {
+        "id": 91,
+        "title": "Meshes of the Afternoon",
+        "author": "Kati Withrington",
+        "translator": "Roseline Fitzroy",
+        "language": "Mongolian",
+        "cover": "http://dummyimage.com/229x100.png/5fa2dd/ffffff",
+        "number_of_pages": 934,
+        "price": 2.92
+    },
+    {
+        "id": 92,
+        "title": "Magician, The (Ansiktet)",
+        "author": "Konrad Sapir",
+        "translator": "Charline Penylton",
+        "language": "Lao",
+        "cover": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+        "number_of_pages": 1229,
+        "price": 47.34
+    },
+    {
+        "id": 93,
+        "title": "Forrest Gump",
+        "author": "Odell Robertis",
+        "translator": "Dawn Fabler",
+        "language": "Azeri",
+        "cover": "http://dummyimage.com/162x100.png/dddddd/000000",
+        "number_of_pages": 748,
+        "price": 26.57
+    },
+    {
+        "id": 94,
+        "title": "Malaya",
+        "author": "Lizzy McKnish",
+        "translator": "Camey Millmoe",
+        "language": "Albanian",
+        "cover": "http://dummyimage.com/217x100.png/cc0000/ffffff",
+        "number_of_pages": 365,
+        "price": 12.12
+    },
+    {
+        "id": 95,
+        "title": "Man Who Copied, The (Homem Que Copiava, O)",
+        "author": "Danna Greenhaugh",
+        "translator": "Swen Lomax",
+        "language": "Tsonga",
+        "cover": "http://dummyimage.com/229x100.png/dddddd/000000",
+        "number_of_pages": 556,
+        "price": 47.22
+    },
+    {
+        "id": 96,
+        "title": "Test Pilot",
+        "author": "Godfry Amber",
+        "translator": "Ronnie Brash",
+        "language": "Arabic",
+        "cover": "http://dummyimage.com/193x100.png/ff4444/ffffff",
+        "number_of_pages": 775,
+        "price": 35.24
+    },
+    {
+        "id": 97,
+        "title": "Planet of Dinosaurs",
+        "author": "Addia McKean",
+        "translator": "Laurice Walter",
+        "language": "Zulu",
+        "cover": "http://dummyimage.com/161x100.png/cc0000/ffffff",
+        "number_of_pages": 535,
+        "price": 29.5
+    },
+    {
+        "id": 98,
+        "title": "PAY 2 PLAY: Democracy's High Stakes",
+        "author": "Stafani Sallans",
+        "translator": "Wilhelmina Glanders",
+        "language": "Tamil",
+        "cover": "http://dummyimage.com/161x100.png/5fa2dd/ffffff",
+        "number_of_pages": 739,
+        "price": 3.09
+    },
+    {
+        "id": 99,
+        "title": "Ignition",
+        "author": "Bird Abramov",
+        "translator": "Honoria Euston",
+        "language": "Ndebele",
+        "cover": "http://dummyimage.com/114x100.png/ff4444/ffffff",
+        "number_of_pages": 482,
+        "price": 35.1
+    },
+    {
+        "id": 100,
+        "title": "Bitter Moon",
+        "author": "Staffard O'Sharkey",
+        "translator": "Kelvin Dulton",
+        "language": "Pashto",
+        "cover": "http://dummyimage.com/113x100.png/cc0000/ffffff",
+        "number_of_pages": 292,
+        "price": 35.5
+    }
+]
